@@ -1,2 +1,8 @@
+
+> [!IMPORTANT]  
+> THIS IS A FANMADE PROJECT, SEPERATE ART FROM THE ARTISTS, FUCK BUNNY.
+> 100% SUPPORTED EXECUTORS (TESTED): VALEX, VOLCANO, SWIFT, VELOCITY
+> UNSUPPORTED EXECUTORS: XENO, SOLARA
+
 # SS-CLASSIC
 Revitalized version of the classic SS, making character changes and fixes bunnys dumbass would never do
