@@ -75,4 +75,6 @@ local v=Instance.new('StringValue',ch)
 v.Name='Hit'
 repeat wait() until h.Health>=2
 v:Destroy()
+task.spawn(function() local a={[1]=pass,[2]="Blocking",[3]=false} game:GetService("ReplicatedStorage").Remotes.Functions:InvokeServer(a)
+end)                    
 end end)) end)
